@@ -1,6 +1,7 @@
 # BFVM23PROG2
 
-Programming 1 course for DSLS
+Data processing Programming course for DSLS 
+Times series study cases will be provided soon
 
 see also <a href ="https://fennaf.gitbook.io/bfvm22prog1/">gitbook link</a>
 
