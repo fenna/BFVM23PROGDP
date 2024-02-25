@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+pandas
+numpy
+holoview
+matplotlib
+statsmodel
