@@ -5,3 +5,6 @@ numpy
 holoview
 matplotlib
 statsmodel
+pyarrow
+wfdb
+websockets
