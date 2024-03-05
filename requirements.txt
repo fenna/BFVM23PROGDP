@@ -2,9 +2,9 @@ jupyter
 ipykernel
 pandas
 numpy
-holoview
+holoviews
 matplotlib
-statsmodel
+statsmodels
 pyarrow
 wfdb
 websockets
