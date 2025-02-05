@@ -9,8 +9,9 @@ This repo has the following directories:
 - `exercises`: Notebooks with some extra exercises (hence the name).
 - `images`: Images that are used in any of the notebooks.
 - `scripts`: Demo scripts such as unit testing scripts and creating sql database. All the *on-the-fly-scripts* that we will work on during the lectures will also be put into this directory.
-- `study_cases`: Examples of study cases for analysis of both continous and categorical data.
+- `example_cases`: Examples of study cases for analysis of both continous and categorical data.
 - `tutorials`: Tutorials for specific topics.
+- `study_cases`: Notebooks that you need to work on in preperation for the lessons.
 
 
 ## Create a virtual environment to install the dependencies
